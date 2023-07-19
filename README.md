@@ -9,4 +9,4 @@ ou
 
 Acesse o link abaixo
 
-<a href="https://antonio-amandio.github.io/html-css/desafios/d010/android.html" target="_blank"></a>
+<a href="https://antonio-amandio.github.io/html-css/desafios/d010/android.html" target="_blank">https://antonio-amandio.github.io/html-css/desafios/d010/android.html</a>
